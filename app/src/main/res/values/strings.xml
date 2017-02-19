@@ -1,3 +1,31 @@
 <resources>
     <string name="app_name">Man</string>
+    <string name="m">1.Brass gets discoloured in air because of the presence of which of the following gases in air?</string>
+    <string name="m1">A.Oxygen</string>
+    <string name="m2">B.Hydrogen sulphide</string>
+    <string name="m3">C.Carbon dioxide</string>
+    <string name="m4">D.Nitrogen</string>
+    <string name="m5">2.Which of the following is a non metal that remains liquid at room temperature?</string>
+    <string name="m6">A.Phosphorous</string>
+    <string name="m7">B.Bromine</string>
+    <string name="m8">C.Chlorine</string>
+    <string name="m9">D.Helium</string>
+    <string name="m10">3.Chlorophyll is a naturally occurring chelate compound in which central metal is</string>
+    <string name="m11">A.Copper</string>
+    <string name="m12">B.Magnesium</string>
+    <string name="m13">C.Iron</string>
+    <string name="m14">D.Calcium</string>
+    <string name="m15">4.Which of the following is used in pencils?</string>
+    <string name="m16">A.Graphite</string>
+    <string name="m17">B.Silicon</string>
+    <string name="m18">C.Charcoal</string>
+    <string name="m19">D.Phosphorous</string>
+    <string name="m20">5.Which of the following metals forms an amalgam with other metals?</string>
+    <string name="m21">A.Tin</string>
+    <string name="m22">B.Mercury</string>
+    <string name="m23">C.Lead</string>
+    <string name="m24">D.Zinc</string>
+    <string name="submit">SUBMIT</string>
+    <string name="result">Result</string>
+
 </resources>
